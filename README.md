@@ -8,7 +8,7 @@
 Definições sobre os status:
 
 #Codigo                   #Descrição
-200 OK                    Requisição efetuada com sucesso.
+200 OK                    Requisição efetuada com sucesso. \n
 201 Created               Requisição efetuado com sucesso. No REST, esse código indica que um novo recurso foi salvo no banco                             de dados.
 204 No Content            Requisição efetuado com sucesso, porém nao existe nenhum retorno. Isso pode acontecer se você tiver                             requisitado um objeto e ele não tiver sido encontrado.
 
