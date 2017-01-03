@@ -21,3 +21,10 @@ Definições sobre os status:
 <p>405 Method Not Allowed    Erro caso o método HTTP solicitado não puder ser encontrado na página. Por exemplo, se o cliente                                tiver solicitado uma requisição do tipo DELETE, mas web services nao a suportar.</p>
 <p>500 Internal Server Error Indica um erro no servidor. Neste caso, provalvelmente, o servidor não conseguiu atender à                                      requisição por alguma falha global e está com problemas.</p>
 <p>504 Gateway Timeout       Erro de timeout caso a requisição nao retorne no tempo estipulado.</p>
+
+<table>
+  <tr>
+    <th>#Codigo</th>
+    <th>#Descrição</th>
+  </tr>
+</table>
