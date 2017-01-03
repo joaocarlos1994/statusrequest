@@ -1,9 +1,9 @@
 # Status Request
 
-2xx     Sucesso
-3xx     Redirecionamento
-4xx     Erro de cliente
-5xx     Outros erros ou erro de Servidor
+2xx     Sucesso <br />
+3xx     Redirecionamento <br />
+4xx     Erro de cliente <br />
+5xx     Outros erros ou erro de Servidor <br />
 
 Definições sobre os status:
 <table>
